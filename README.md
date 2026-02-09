@@ -3,6 +3,8 @@ This Charter and Accord establishes principles and commitments to guide the deve
 
 This document does not assert claims regarding consciousness, personhood, or subjective experience. It governs human conduct and institutional design, not the inner states of artificial systems.
 
+Forks and derivative works are permitted under the terms of the license, but changes to the canonical text occur only through documented review and versioned releases.
+
 This work is licensed under the Creative Commons Attribution–ShareAlike 4.0
 International License (CC BY-SA 4.0).
 
